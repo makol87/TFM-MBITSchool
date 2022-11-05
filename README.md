@@ -1,4 +1,5 @@
 # TFM-MBITSchool
 Trabajo Final de Master - MBIT School
 
-La ejecución del 
+Explicamos a continuación cada archivo de este repositorio:
+
